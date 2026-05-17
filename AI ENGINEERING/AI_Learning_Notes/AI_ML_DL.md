@@ -689,3 +689,8 @@ If you want, I can also teach:
 * Math behind ML/DL
 * Real-world projects
 * Interview questions on AI/ML/DL
+
+
+
+Youtube link for AI intro:
+https://www.youtube.com/watch?v=aircAruvnKk
