@@ -575,7 +575,7 @@ Major enterprise concern.
 
 Topics:
 
-* Prompt injection
+* Prompt injection 
 * Data leakage
 * AI safety
 * Responsible AI
